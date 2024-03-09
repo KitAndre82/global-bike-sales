@@ -59,10 +59,12 @@ Revenue trends for different materials
 The analysis is performed using Python programming language. The following libraries are required:
 
 Pandas
+
 Matplotlib
+
 Seaborn
 
-How to Use
+### How to Use
 
 Clone the repository to your local machine:
 
