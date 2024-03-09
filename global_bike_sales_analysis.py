@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Read the Excel file into a pandas DataFrame
-df0 = pd.read_excel('/Users/andrew/Downloads/Global Bike Sales.xlsx')
+df0 = pd.read_excel('Global Bike Sales.xlsx')
 
 # Create a copy of the original DataFrame to work with
 df1 = df0.copy()
